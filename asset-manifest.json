@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/linktree-react-app/static/css/main.519efd4e.css",
+    "main.js": "/linktree-react-app/static/js/main.10e6dc1f.js",
+    "static/js/787.55f350d7.chunk.js": "/linktree-react-app/static/js/787.55f350d7.chunk.js",
+    "index.html": "/linktree-react-app/index.html",
+    "main.519efd4e.css.map": "/linktree-react-app/static/css/main.519efd4e.css.map",
+    "main.10e6dc1f.js.map": "/linktree-react-app/static/js/main.10e6dc1f.js.map",
+    "787.55f350d7.chunk.js.map": "/linktree-react-app/static/js/787.55f350d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.519efd4e.css",
+    "static/js/main.10e6dc1f.js"
+  ]
+}
