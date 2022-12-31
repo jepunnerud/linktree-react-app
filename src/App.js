@@ -1,25 +1,44 @@
-import logo from './logo.svg';
-import './App.css';
+import Header from "./components/Header";
+import Links from "./components/Links";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    const links = [
+        {
+            name: "LinkedIn",
+            link: "https://www.linkedin.com/in/jakobpunnerud-208771233/",
+        },
+        {
+            name: "GitHub",
+            link: "https://github.com/jepunnerud",
+        },
+        {
+            name: "Email",
+            link: "mailto:jepunnerud@gmail.com",
+        },
+        {
+            name: "Phone",
+            link: "tel: +4740465312",
+        },
+        {
+            name: "Instagram",
+            link: "https://www.instagram.com/jakobpunnerud/",
+        },
+        {
+            name: "Facebook",
+            link: "https://www.facebook.com/jakob.punnerud/",
+        },
+        {
+            name: "Spotify",
+            link: "https://open.spotify.com/user/jepunnerud?si=fa67f763040044ff",
+        }
+    ]
+
+    return (
+        <div className="App">
+            <Header header="Jakob Eilertsen Punnerud - Linktree" />
+            <Links links={links} />
+        </div>
+    );
 }
 
 export default App;
