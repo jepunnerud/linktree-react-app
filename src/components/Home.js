@@ -30,7 +30,7 @@ const Home = () => {
         },
         {
             name: "Spotify",
-            link: "https://open.spotify.com/user/jepunnerud?si=fa67f763040044ff",
+            link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         }
     ]
 
