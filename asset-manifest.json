@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/linktree-react-app/static/css/main.9b913322.css",
-    "main.js": "/linktree-react-app/static/js/main.86eee9e8.js",
+    "main.js": "/linktree-react-app/static/js/main.08d37360.js",
     "static/js/787.55f350d7.chunk.js": "/linktree-react-app/static/js/787.55f350d7.chunk.js",
     "static/media/instagram.png": "/linktree-react-app/static/media/instagram.ed5ed57e98d053cf1e55.png",
     "index.html": "/linktree-react-app/index.html",
     "main.9b913322.css.map": "/linktree-react-app/static/css/main.9b913322.css.map",
-    "main.86eee9e8.js.map": "/linktree-react-app/static/js/main.86eee9e8.js.map",
+    "main.08d37360.js.map": "/linktree-react-app/static/js/main.08d37360.js.map",
     "787.55f350d7.chunk.js.map": "/linktree-react-app/static/js/787.55f350d7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b913322.css",
-    "static/js/main.86eee9e8.js"
+    "static/js/main.08d37360.js"
   ]
 }
